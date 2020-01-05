@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "275683924139",
+    "firebase_url": "https://bargraph-db89a.firebaseio.com",
+    "project_id": "bargraph-db89a",
+    "storage_bucket": "bargraph-db89a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:275683924139:android:b75e496bcdfb3c17",
+        "android_client_info": {
+          "package_name": "com.example.bar_graph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "275683924139-43fo7fo91o1nd2757gu4od8a4s48i2gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bar_graph",
+            "certificate_hash": "86d1346d6afb5d3b4eab7f20c632454971dcd2e7"
+          }
+        },
+        {
+          "client_id": "275683924139-bmobh097m2p40amh9f7e7pl96klrccs8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbGekIKBIAfXNFQ0tSCncWGYsODesJqu0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "275683924139-bmobh097m2p40amh9f7e7pl96klrccs8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

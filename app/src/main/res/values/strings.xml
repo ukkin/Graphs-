@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">bar_graph</string>
+    <string name="title_activity_payment">payment</string>
+    <string name="title_activity_pay">pay</string>
+</resources>
